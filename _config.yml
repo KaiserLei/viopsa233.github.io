@@ -1,7 +1,0 @@
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-giscus
-giscus:
-  repo: viopsa233/viopsa233.github.io
-  category: General
-  term: sydney.md
